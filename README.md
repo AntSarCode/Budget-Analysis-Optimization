@@ -26,3 +26,10 @@
    ```bash
    git clone https://github.com/yourusername/budget-analysis.git
    cd budget-analysis
+
+[release-badge]: https://img.shields.io/github/v/release/yourusername/budget-analysis
+[release-link]: https://github.com/yourusername/budget-analysis/releases
+[ci-badge]:    https://img.shields.io/github/actions/workflow/status/yourusername/budget-analysis/ci.yml
+[ci-link]:     https://github.com/yourusername/budget-analysis/actions
+
+pip install pandas openpyxl
