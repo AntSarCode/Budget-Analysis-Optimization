@@ -1,7 +1,8 @@
 # Budget Analysis
 
-[![PyPI version](https://img.shields.io/pypi/v/budget-analysis)](https://pypi.org/project/budget-analysis)  
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub Release][release-badge]][release-link]  
+[![Build Status][ci-badge]][ci-link]    
+[![License: MIT][license-badge]][license-link]
 
 > Analyze your “Monthly Joint Expenses” block in an Excel file, compare each line-item against target budget percentages, and get spending recommendations.
 
