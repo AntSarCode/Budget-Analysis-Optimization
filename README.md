@@ -26,5 +26,3 @@
    ```bash
    git clone https://github.com/yourusername/budget-analysis.git
    cd budget-analysis
-
-pip install pandas openpyxl
