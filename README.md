@@ -1,8 +1,8 @@
 # Budget Analysis
 
-[![GitHub Release][release-badge]][release-link]  
-[![Build Status][ci-badge]][ci-link]    
-[![License: MIT][license-badge]][license-link]
+[![PyPI version](https://img.shields.io/pypi/v/budget-analysis)](https://pypi.org/project/budget-analysis)  
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 > Analyze your “Monthly Joint Expenses” block in an Excel file, compare each line-item against target budget percentages, and get spending recommendations.
 
@@ -26,10 +26,5 @@
    ```bash
    git clone https://github.com/yourusername/budget-analysis.git
    cd budget-analysis
-
-[release-badge]: https://img.shields.io/github/v/release/yourusername/budget-analysis
-[release-link]: https://github.com/yourusername/budget-analysis/releases
-[ci-badge]:    https://img.shields.io/github/actions/workflow/status/yourusername/budget-analysis/ci.yml
-[ci-link]:     https://github.com/yourusername/budget-analysis/actions
 
 pip install pandas openpyxl
